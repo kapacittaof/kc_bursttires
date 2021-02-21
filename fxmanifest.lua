@@ -1,0 +1,6 @@
+fx_version "adamant"
+game "gta5"
+version "1.0"
+client_script "config.lua"
+client_script "client.lua"
+developer "kapacitta#2227"
