@@ -1,2 +1,2 @@
-# kapacitta_tiresburst
-FiveM resource, kterı pøi splnìní urèitıch podmínek zpùsobí prasknutí pneumatik. Tyto podmínky jsou vysvìtleny a konfigurovatelné v souboru `config.lua`.
+# kap_tiresburst
+FiveM resource, kterÃ½ pÅ™i splnÄ›nÃ­ urÄitÃ½ch podmÃ­nek zpÅ¯sobÃ­ prasknutÃ­ pneumatik. Tyto podmÃ­nky jsou vysvÄ›tleny a konfigurovatelnÃ© v souboru `config.lua`.
